@@ -24,7 +24,7 @@
                    "儿童节"
             ],
             "date_published": "2023-06-01T11:05:11+08:00",
-            "date_modified": "2023-06-01T11:05:11+08:00"
+            "date_modified": "2023-06-01T12:28:02+08:00"
         },
         {
             "id": "https://isfamily.github.io/crossian/shi-pin-duo-tai-de-zhen-xiang/",
@@ -38,21 +38,7 @@
                    "堕胎真相"
             ],
             "date_published": "2023-05-31T17:20:35+08:00",
-            "date_modified": "2023-05-31T20:17:04+08:00"
-        },
-        {
-            "id": "https://isfamily.github.io/crossian/wo-shi-zhen-cheng/",
-            "url": "https://isfamily.github.io/crossian/wo-shi-zhen-cheng/",
-            "title": "我是真诚",
-            "summary": "小诗一首 我在永恒字句， 小记生命点滴， 但见痕迹流转， 原来伊甸天堂。",
-            "author": {
-                "name": "真诚"
-            },
-            "tags": [
-                   "自我介绍"
-            ],
-            "date_published": "2023-05-31T12:16:06+08:00",
-            "date_modified": "2023-05-31T12:16:34+08:00"
+            "date_modified": "2023-06-01T12:27:53+08:00"
         }
     ]
 }
