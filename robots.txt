@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://isfamily.github.io/crossian/sitemap.xml
+Sitemap: https://isfamily.github.io/sitemap.xml

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>祂必兴旺，我必衰微</title>
-    <link href="https://isfamily.github.io/crossian/feed.xml" rel="self" />
-    <link href="https://isfamily.github.io/crossian" />
+    <link href="https://isfamily.github.io/feed.xml" rel="self" />
+    <link href="https://isfamily.github.io" />
     <updated>2023-06-08T13:27:48+08:00</updated>
     <author>
         <name>真诚</name>
     </author>
-    <id>https://isfamily.github.io/crossian</id>
+    <id>https://isfamily.github.io</id>
 
     <entry>
         <title>上帝是谁？为什么感谢祂！</title>
         <author>
             <name>真诚</name>
         </author>
-        <link href="https://isfamily.github.io/crossian/shang-di-shi-shuiwei-shi-me-gan-xie-ta/"/>
-        <id>https://isfamily.github.io/crossian/shang-di-shi-shuiwei-shi-me-gan-xie-ta/</id>
+        <link href="https://isfamily.github.io/shang-di-shi-shuiwei-shi-me-gan-xie-ta/"/>
+        <id>https://isfamily.github.io/shang-di-shi-shuiwei-shi-me-gan-xie-ta/</id>
 
         <updated>2023-06-08T13:27:48+08:00</updated>
             <summary>
@@ -30,8 +30,8 @@
         <author>
             <name>真诚</name>
         </author>
-        <link href="https://isfamily.github.io/crossian/jiao-yu-li-nian-xian-dai-xing-de-jue-ren-zhi-lu/"/>
-        <id>https://isfamily.github.io/crossian/jiao-yu-li-nian-xian-dai-xing-de-jue-ren-zhi-lu/</id>
+        <link href="https://isfamily.github.io/jiao-yu-li-nian-xian-dai-xing-de-jue-ren-zhi-lu/"/>
+        <id>https://isfamily.github.io/jiao-yu-li-nian-xian-dai-xing-de-jue-ren-zhi-lu/</id>
             <category term="古典教育理念"/>
 
         <updated>2023-06-01T12:52:00+08:00</updated>
@@ -47,8 +47,8 @@
         <author>
             <name>真诚</name>
         </author>
-        <link href="https://isfamily.github.io/crossian/jiao-hua-san-zi-jing/"/>
-        <id>https://isfamily.github.io/crossian/jiao-hua-san-zi-jing/</id>
+        <link href="https://isfamily.github.io/jiao-hua-san-zi-jing/"/>
+        <id>https://isfamily.github.io/jiao-hua-san-zi-jing/</id>
             <category term="教学资源"/>
 
         <updated>2023-06-01T12:46:38+08:00</updated>
@@ -64,8 +64,8 @@
         <author>
             <name>真诚</name>
         </author>
-        <link href="https://isfamily.github.io/crossian/er-tong-jieta-men-de-ling-hun/"/>
-        <id>https://isfamily.github.io/crossian/er-tong-jieta-men-de-ling-hun/</id>
+        <link href="https://isfamily.github.io/er-tong-jieta-men-de-ling-hun/"/>
+        <id>https://isfamily.github.io/er-tong-jieta-men-de-ling-hun/</id>
             <category term="珍爱生命"/>
             <category term="灵魂"/>
             <category term="儿童节"/>
@@ -83,8 +83,8 @@
         <author>
             <name>真诚</name>
         </author>
-        <link href="https://isfamily.github.io/crossian/shi-pin-duo-tai-de-zhen-xiang/"/>
-        <id>https://isfamily.github.io/crossian/shi-pin-duo-tai-de-zhen-xiang/</id>
+        <link href="https://isfamily.github.io/shi-pin-duo-tai-de-zhen-xiang/"/>
+        <id>https://isfamily.github.io/shi-pin-duo-tai-de-zhen-xiang/</id>
             <category term="珍爱生命"/>
             <category term="堕胎真相"/>
 
