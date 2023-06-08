@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://isfamily.github.io/crossian/shang-di-shi-shuiwei-shi-me-gan-xie-ta/",
+            "url": "https://isfamily.github.io/crossian/shang-di-shi-shuiwei-shi-me-gan-xie-ta/",
+            "title": "上帝是谁？为什么感谢祂！",
+            "summary": "路加福音15:11-32节 11耶稣又说，一个人有两个儿子。 12小儿子对父亲说，父亲，请你把我应得的家业分给我。他父亲就把产业分给他们。 13过了不多几日，小儿子就把他一切所有的，都收拾起来，往远方去了。在那里任意放荡，浪费赀财。 14既耗尽了一切所有的，又遇着那地方大遭饥荒，就穷苦起来。&hellip;",
+            "author": {
+                "name": "真诚"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-08T13:24:35+08:00",
+            "date_modified": "2023-06-08T13:27:48+08:00"
+        },
+        {
             "id": "https://isfamily.github.io/crossian/jiao-yu-li-nian-xian-dai-xing-de-jue-ren-zhi-lu/",
             "url": "https://isfamily.github.io/crossian/jiao-yu-li-nian-xian-dai-xing-de-jue-ren-zhi-lu/",
             "title": "现代性的绝人之路",
@@ -67,20 +80,6 @@
             ],
             "date_published": "2023-05-31T17:20:35+08:00",
             "date_modified": "2023-06-01T12:59:25+08:00"
-        },
-        {
-            "id": "https://isfamily.github.io/crossian/wo-shi-zhen-cheng/",
-            "url": "https://isfamily.github.io/crossian/wo-shi-zhen-cheng/",
-            "title": "我是真诚",
-            "summary": "小诗一首 我在永恒字句， 小记生命点滴， 但见痕迹流转， 原来伊甸天堂。",
-            "author": {
-                "name": "真诚"
-            },
-            "tags": [
-                   "自我介绍"
-            ],
-            "date_published": "2023-05-31T12:16:06+08:00",
-            "date_modified": "2023-06-01T12:28:26+08:00"
         }
     ]
 }
