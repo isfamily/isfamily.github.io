@@ -1,27 +1,36 @@
- // Search overlay
-(function () {
-    const searchButton = document.querySelector('.search-btn');
-          searchClose = document.querySelector('.search__close');
-          searchOverlay = document.querySelector('.search__overlay');
-          searchInput = document.querySelector('[type="search"]');
+// Sticky menu
+var new_scroll_position = 0;
+var last_scroll_position;
+var header = document.getElementById("js-header");
+var stickyMenu = document.getElementById("js-navbar-menu");
 
-    if (searchButton) {
-        searchButton.addEventListener('click', function (e) {
-            searchOverlay.classList.add('expanded');
+window.addEventListener('scroll', function (e) {
+	last_scroll_position = window.scrollY;
 
-            if (searchInput) {
-                setTimeout(function() {
-                    if (searchOverlay.classList.contains('expanded')) {
-                        searchInput.focus();
-                    }
-                }, 60);  
-            } 
-        });
-        searchClose.addEventListener('click', function (e) {
-            searchOverlay.classList.remove('expanded');
-        });
-    }
-})();
+	// Scrolling down
+	if (new_scroll_position < last_scroll_position && last_scroll_position > 60) {
+		header.classList.remove("is-visible");
+		header.classList.add("is-hidden");
+
+		// Scrolling up
+	} else if (new_scroll_position > last_scroll_position) {
+		header.classList.remove("is-hidden");
+		header.classList.add("is-visible");
+		if (stickyMenu) {
+			stickyMenu.classList.add("is-sticky");
+		}
+	}
+
+	if (last_scroll_position < 1) {
+		header.classList.remove("is-visible");
+
+		if (stickyMenu) {
+			stickyMenu.classList.remove("is-sticky");
+		}
+	}
+
+	new_scroll_position = last_scroll_position;
+});
 
 // Dropdown menu
 (function (menuConfig) {
@@ -451,7 +460,6 @@
      */
     init();
 })(window.publiiThemeMenuConfig);
-
 
 // Share buttons pop-up
 (function () {
